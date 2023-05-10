@@ -40,28 +40,25 @@ O projeto foi pautado sob a premissa mobile first, e posteriormente adaptado por
 
 ### Interface em 360px, 720px, 1440px, respectivamente:
 
-## 360px
-![Layout em 360px](./assets/img/Demo/360px-zoom-in.png)
-
+<h2>360px</h2>
+<p><img src="./assets/img/Demo/360px-zoom-in.png" alt="Layout em 360px"></p>
 <details>
     <summary>Versão completa</summary>
-    ![Layout em 360px](./assets/img/Demo/360px-zoom-out.png)
+    <p><img src="./assets/img/Demo/360px-zoom-out.png" alt="Layout em 360px"></p>
 </details>
 
-## 720px
-![Layout em 720px](./assets/img/Demo/720px-zoom-in.png)
-
+<h2>720px</h2>
+<p><img src="./assets/img/Demo/720px-zoom-in.png" alt="Layout em 720px"></p>
 <details>
     <summary>Versão completa</summary>
-    ![Layout em 720px](./assets/img/Demo/720px-zoom-out.png)
+    <p><img src="./assets/img/Demo/720px-zoom-out.png" alt="Layout em 720px"></p>
 </details>
 
-## 1440px
-![Layout em 1400px](./assets/img/Demo/1440px-zoom-in.png)
-
+<h2>1440px</h2>
+<p><img src="./assets/img/Demo/1440px-zoom-in.png" alt="Layout em 1400px"></p>
 <details>
     <summary>Versão completa</summary>
-    ![Layout em 1400px](./assets/img/Demo/1440px-zoom-out.png)
+    <p><img src="./assets/img/Demo/1440px-zoom-out.png" alt="Layout em 1400px"></p>
 </details>
 
 ## 🚀 Conclusão e próximos passos
