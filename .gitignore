@@ -1,0 +1,4 @@
+# Files from Showdown Library
+/node_modules
+/package-lock.json
+/package.json
